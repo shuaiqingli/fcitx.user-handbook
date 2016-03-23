@@ -1,0 +1,1 @@
+fcitx.user-handbook
